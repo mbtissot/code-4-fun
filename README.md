@@ -4,4 +4,4 @@ This is repository is supposed to have all the coding exercises i do across vari
 
 ### Languages
 
-The languages i try to use for these exercises are mainly Python (which is my best language yet) and Fortran90 (which i am trying to learn to be effective at scientific computing), but if (when) i try to learn a new language, i will for sure use these resources. 
+The languages i try to use for these exercises are mainly Python and Fortran90 (which i am trying to learn to be effective at scientific computing), but if (when) i try to learn a new language, i will for sure use these resources. 
