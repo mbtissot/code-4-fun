@@ -10,10 +10,10 @@ def check_palindrome(x):  # Palindrome checker
 		return False
 
 
-# palindromes = []  # In case you want a list of palindromes, use this list
-max_num = 0  # Max number and its factors
-factor1 = 0
-factor2 = 0
+# palindromes = []  # In case you want a list of palindromes
+max_num = 0  # Max number
+factor1 = 0  # Factor 1
+factor2 = 0  # Factor 2
 
 """Finding the largest palindrome product of two 3-digit numbers"""
 for i in range(999, 99, -1):  # 3 digit numbers decreasing, starting from 999
@@ -24,8 +24,8 @@ for i in range(999, 99, -1):  # 3 digit numbers decreasing, starting from 999
 				max_num = number
 				factor1 = i
 				factor2 = j
-			# palindromes.append(number) #you can have the list of all the palindromes here
-			# print(f'O numero {number} é palíndrome e é produto de {i} e {j}') # you can print every palindrome and its factors
+			# palindromes.append(number) #if you want a list every palindrome number
+			# print(f'O numero {number} é palíndrome e é produto de {i} e {j}')
 		else:
 			continue
 
