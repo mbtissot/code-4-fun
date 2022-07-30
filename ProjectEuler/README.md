@@ -7,3 +7,6 @@
 4. Problem 4 - Largest palindrome product of two 3 digit numbers.
 5. Problem 5 - 2520 is the smallest number divisible by 1~10. What is the smallest divisible by 1~20?
 6. Problem 6 - Difference: (Square of sum)-(Sum of squares), when n = 100.
+7. Problem 7 - Work in progress. Very hard
+8. Problem 10 - Sum of primes below 2 million
+9. Problem 12 - Triangular numbers with more than 500 divisors
